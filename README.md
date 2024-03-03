@@ -1,6 +1,6 @@
 # newshub
 
-A new Flutter project.
+A News App using Riverpod as a state management 
 
 ## Getting Started
 
