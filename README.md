@@ -1,13 +1,13 @@
-# NEWSHUB - Flutter Open Source News App 
-
-
+# NEWSHUB - Flutter Open Source News App
 
 NewsHUB is a beautiful and intuitive music streaming app built with Flutter. It allows users to discover news by Category and Source.
 
-## Features
+State Management:
+Riverpod
 
+## Features
 - **Fetch News by Source:** Fetch News by Source available Top News Agencies BBC News,  Al Jazeera English etc.
-- - **Fetch News by Category:** Fetch News by Categories Like Entertainment, Sports, Tech. 
+- **Fetch News by Category:** Fetch News by Categories Like Entertainment, Sports, Tech. 
 - **Dark mode Support**
 - **Cache support**
 - **No Subscription**
