@@ -16,11 +16,11 @@ NewsHUB is a beautiful and intuitive music streaming app built with Flutter. It 
 
 ## Screenshots
 
-![Screenshot 1](assets/screenshot1.jpg)
-![Screenshot 2](assets/screenshot2.jpg)
-![Screenshot 3](assets/screenshot3.jpg)
-![Screenshot 4](assets/screenshot4.jpg)
-![Screenshot 5](assets/screenshot5.jpg)
+![Screenshot 1](images/screenshot1.jpg)
+![Screenshot 2](images/screenshot2.jpg)
+![Screenshot 3](images/screenshot3.jpg)
+![Screenshot 4](images/screenshot4.jpg)
+![Screenshot 5](images/screenshot5.jpg)
 ## Installation
 
 To install NewsHUB on your Android device, simply download the APK file from the [releases page](link-to-releases) and follow the installation instructions.
