@@ -25,7 +25,7 @@ class CustomNavDrawer extends ConsumerWidget {
 
     final darkMode = ref.watch(darkModeStateProvider);
     return SizedBox(
-      height: 20.h,
+      height: 10.h,
       child: Drawer(
         backgroundColor: darkMode?Colors.black:Colors.white,
         width: 50.w,
@@ -56,7 +56,7 @@ class CustomNavDrawer extends ConsumerWidget {
             
            
 
-            const Spacer(),
+
             Center(child: Text("Made with 💙 by Furqan Uddin", style: TextStyle(fontSize: 13.5.sp),)),
             SizedBox(height: 1.h,)
           ],
