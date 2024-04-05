@@ -92,14 +92,12 @@ class NewsPage extends StatelessWidget {
 
           ///Content
           SliverToBoxAdapter(
-            child: Expanded(
-              child: SingleChildScrollView(
-                child: Padding(
-                  padding: EdgeInsets.symmetric( horizontal: 2.w),
-                  child: Text(
-                    content,
-                    style: GoogleFonts.poppins(fontSize: 18.sp),
-                  ),
+            child: SingleChildScrollView(
+              child: Padding(
+                padding: EdgeInsets.symmetric( horizontal: 2.w),
+                child: Text(
+                  content,
+                  style: GoogleFonts.poppins(fontSize: 18.sp),
                 ),
               ),
             ),

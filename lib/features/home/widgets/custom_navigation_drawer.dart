@@ -54,10 +54,7 @@ class CustomNavDrawer extends ConsumerWidget {
               ),
             ),
             
-            const Padding(
-              padding: EdgeInsets.all(10.0),
-              child: Text("This is unstable version, more features are coming soon!"),
-            ),
+           
 
             const Spacer(),
             Center(child: Text("Made with 💙 by Furqan Uddin", style: TextStyle(fontSize: 13.5.sp),)),

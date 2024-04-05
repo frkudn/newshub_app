@@ -1,7 +1,9 @@
 plugins {
-    id "com.android.application"
-    id "kotlin-android"
-    id "dev.flutter.flutter-gradle-plugin"
+    id 'com.android.application' version '7.3.0'
+    id 'kotlin-android'
+    // id 'com.google.gms.google-services' version '4.3.15'
+    // id 'com.google.firebase.crashlytics' version '2.9.9'
+    id 'dev.flutter.flutter-gradle-plugin'
 }
 
 def localProperties = new Properties()

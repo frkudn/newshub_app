@@ -29,8 +29,8 @@ class HeadlineImage extends StatelessWidget {
         child: CachedNetworkImage(
           fit: BoxFit.cover,
           imageUrl: imageUrl,
-           errorWidget: (context, url, error) => Center(child: Icon(Icons.error_outline),),
-          placeholder: (context, url) => Center(child: CircularProgressIndicator()),
+           errorWidget: (context, url, error) => const Center(child: Icon(Icons.error_outline),),
+          placeholder: (context, url) => const Center(child: CircularProgressIndicator()),
         ),
       ),
     );

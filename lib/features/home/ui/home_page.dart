@@ -382,3 +382,8 @@ class _HomePageState extends ConsumerState<HomePage> {
     ref.refresh(fetchNewsChannelHeadlinesAPIProvider);
   }
 }
+
+
+
+
+// applicationId "com.furqanuddin.newshub.newshub"
